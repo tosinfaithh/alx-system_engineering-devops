@@ -7,3 +7,5 @@ File 2-bring_me_home changes the working directory to the user’s home director
 File 3-listfiles dispalys current directory contents in a long format
 
 File 4-listmorefiles displays current directory contents, including hidden files (starting with .). Use the long format
+
+File 5-listfilesdigitonly displays current directory contents
