@@ -9,3 +9,5 @@ File 3-listfiles dispalys current directory contents in a long format
 File 4-listmorefiles displays current directory contents, including hidden files (starting with .). Use the long format
 
 File 5-listfilesdigitonly displays current directory contents
+
+File 6-firstdirectory  creates a directory named my_first_directory in the /tmp/ directory
