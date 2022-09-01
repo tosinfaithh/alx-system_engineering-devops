@@ -13,3 +13,5 @@ File 5-listfilesdigitonly displays current directory contents
 File 6-firstdirectory  creates a directory named my_first_directory in the /tmp/ directory
 
 File 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
+
+File 8-firstdelete deletes the file betty
